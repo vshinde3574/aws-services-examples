@@ -1,0 +1,9 @@
+com/springboot/aws/lambda/domain/Order.class
+com/springboot/aws/lambda/functions/TriggerLambdaOnS3Event.class
+com/springboot/aws/lambda/SpringbootAwsLambdaApplication.class
+com/springboot/aws/lambda/functions/OrderHandler.class
+com/springboot/aws/lambda/respository/OrderDao.class
+com/springboot/aws/lambda/functions/ProductLambdaHandleSpringCloudFunction.class
+com/springboot/aws/lambda/domain/OrderDTO.class
+com/springboot/aws/lambda/domain/Product.class
+com/springboot/aws/lambda/functions/ProductLambdaHandler.class
